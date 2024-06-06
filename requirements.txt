@@ -1,0 +1,7 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+mysqlclient
+SQLAlchemy==2.0.23
